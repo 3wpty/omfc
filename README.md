@@ -1,6 +1,6 @@
 # Ещё одна свободная ячейка
 
-![map](https://github.com/makar-kashin/project-26/blob/main/intro.png?raw=true)
+![map](https://github.com/3wpty/omfc/blob/main/image_2022-04-20_000323506.png?raw=true)
 
 ## Описание
 > Игра происходит на круговом поле, разбитом на 3 или больше уровня колец (см пикчу выше).
