@@ -1,6 +1,6 @@
 # Ещё одна свободная ячейка
 
-![map](https://github.com/3wpty/omfc/blob/main/omfc_map-removebg-preview.png)
+![map](https://github.com/3wpty/omfc/blob/main/img/omfc_bluegreen_map.png)
 
 ## Описание
 > Игра происходит на круговом поле, разбитом на 3 или больше уровня колец (см пикчу выше).
